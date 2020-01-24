@@ -2,7 +2,7 @@
 
 This project is all about getting accustomed with testing JavaScript applications with Jest.
 
-- [x] Test were written for the following functions:
+- [ ] Test were written for the following functions:
 
 - capitalize: a function that takes a string as an argument and returns that string with the first character capitalized.
 
@@ -12,7 +12,7 @@ This project is all about getting accustomed with testing JavaScript application
 
 - [ ] A calculator object that contains the basic operations: add, subtract, divide, and multiply.
 
-- [] Caesar Cipher. [Read about it on this website](http://practicalcryptography.com/ciphers/caesar-cipher/)
+- [ ] Caesar Cipher. [Read about it on this website](http://practicalcryptography.com/ciphers/caesar-cipher/)
 
 #### Take the following steps to work with this repository:
 
