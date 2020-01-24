@@ -51,7 +51,3 @@ it("encrypts a word", () => {
 it("decrypts a word", () => {
   expect(caeserCipher(2).decryption("oketqxgtug")).toBe("microverse");
 });
-
-it("decrypts a word", () => {
-  expect(caeserCipher(2).decryption("oketqxgtug")).toBe("microverse");
-});
